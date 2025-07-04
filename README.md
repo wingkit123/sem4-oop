@@ -29,4 +29,5 @@ A C++ implementation of a food delivery management system demonstrating core dat
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/food-delivery-system.git
+   git clone https://github.com/wingkit123/sem4-oop.git
+   cd sem4-oop
